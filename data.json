@@ -1,0 +1,74 @@
+{
+    "pakaian": [
+        {
+            "foto": "https://berducdn.com/img/800/bsob0d3ebsoeu2j0m7_2/hMt2O5ZsRjtNhYGhMEy0UrX3K4zvfCQbmSBKnutVmi2g.webp",
+            "nama": "Batik Yogyakarta",
+            "size": "1 Pasang",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://scontent.fsub2-3.fna.fbcdn.net/v/t45.5328-4/349248983_23868375302761552_4473041458434252265_n.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=c48759&_nc_eui2=AeGCCPQZFZhVX7rki5vtDD-khntuPlFf2yGGe24-UV_bIfILUjTGlbVSI56qMX0zWkxfSnDTKkhF6hE3hfgxvQ68&_nc_ohc=C5mQznJ2p7IAX8pm8Tx&_nc_ht=scontent.fsub2-3.fna&oh=00_AfDOUNVSVP4x_eC6zbDDFl6rvlvSsAaVABGZT5_xKNOSqw&oe=649B5651",
+            "nama": "Ulos",
+            "size": "1 Pasang",
+            "harga": "1.100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/3c/b3/b9/3cb3b96e3eae7547f5083fb01e8f591e.jpg",
+            "nama": "Kebaya",
+            "size": "1 Pasang",
+            "harga": "800.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/cc/37/80/cc3780a027b6549b6449f7664e9ea468.jpg",
+            "nama": "Kain Tenun NTT",
+            "size": "1 Pasang",
+            "harga": "1.300.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "kuliner": [
+        {
+            "foto": "https://i.pinimg.com/564x/74/55/fb/7455fb0b84ce0f88b464f8a10fe9dcca.jpg",
+            "nama": "Kerupuk",
+            "size": "500 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/34/cc/05/34cc054ede6d715a6afea3eed95ba817.jpg",
+            "nama": "Kopi Gayo",
+            "size": "150 Gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "musik": [
+        {
+            "foto": "https://i.pinimg.com/564x/2d/b5/aa/2db5aa35be2f2b3fe5db2de6f603e4e8.jpg",
+            "nama": "Angklung",
+            "size": "1 pcs",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/f1/c2/68/f1c268360d6f4d168562928ef865ea27.jpg",
+            "nama": "Gong",
+            "size": "1 set",
+            "harga": "5.000.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "seni": [
+        {
+            "foto": "https://i.pinimg.com/564x/ca/52/0f/ca520fb2b12b5d173274b62d59f8dd22.jpg",
+            "nama": "Wayang",
+            "size": "1 pcs",
+            "harga": "1.000.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+    
+}
